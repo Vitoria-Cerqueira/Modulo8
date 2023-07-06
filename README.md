@@ -33,7 +33,7 @@ objeto novoFuncionario do tipo Funcionario:
   atributos a esse ArrayList
 - Exiba os valores do ArrayList criado
 
-3- Construa a classe Livros em Kotlin, que obedeça à descrição abaixo:<br>
+2- Construa a classe Livros em Kotlin, que obedeça à descrição abaixo:<br>
 
 
     a. A classe possui os atributos titulo, qtdPaginas e paginasLidas;
