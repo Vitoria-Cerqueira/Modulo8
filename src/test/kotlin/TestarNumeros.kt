@@ -1,6 +1,7 @@
 import Ex3.Numero
+import org.junit.Assert.assertEquals
 import org.junit.Test
-import kotlin.test.assertEquals
+
 
 class TestarNumeros {
     val numeroArray = arrayOf(8,5,6,7,10)

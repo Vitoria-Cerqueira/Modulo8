@@ -1,7 +1,6 @@
 import Ex1.Produto
+import org.junit.Assert.assertEquals
 import org.junit.Test
-import kotlin.test.assertEquals
-
 class TestarProduto {
     @Test
     fun retornarProdutoMaisBarato(){

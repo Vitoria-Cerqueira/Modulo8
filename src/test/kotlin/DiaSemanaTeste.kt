@@ -1,6 +1,7 @@
 import Ex2.Semana
+import org.junit.Assert.assertEquals
 import org.junit.Test
-import kotlin.test.assertEquals
+
 
 class DiaSemanaTeste {
     val dia = Semana()
@@ -51,3 +52,5 @@ class DiaSemanaTeste {
         assertEquals("Opção inválida", numero)
     }
 }
+
+
